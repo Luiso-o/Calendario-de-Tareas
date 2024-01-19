@@ -1,5 +1,7 @@
 **📅 Eventos del Calendario 📆**
 
+✨<a href="https://luiso-o.github.io/Calendario-de-Tareas/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>✨
+
 Este proyecto es una aplicación simple para gestionar eventos y recordatorios. Puedes agregar eventos importantes, ver cuántos días faltan para cada uno y eliminar aquellos que ya han pasado. ¡Nunca más olvides una fecha especial! 🎉
 
 **Funcionalidades:**
